@@ -1,0 +1,6 @@
+﻿  MainTest.cpp
+C:\Users\Andres Choque\Documents\CSIS 215 work\Lab 2 Threaded Binary Tree\Lab 2 Threaded Binary Tree\book.h(74,1): warning C4005: 'INFINITY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(90): message : see previous definition of 'INFINITY'
+C:\Users\Andres Choque\Documents\CSIS 215 work\Lab 2 Threaded Binary Tree\Lab 2 Threaded Binary Tree\BST.h(136): warning C4715: 'BST<int,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::getLeftPredecessor': not all control paths return a value
+C:\Users\Andres Choque\Documents\CSIS 215 work\Lab 2 Threaded Binary Tree\Lab 2 Threaded Binary Tree\BST.h(152): warning C4715: 'BST<int,std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::getRightPredecessor': not all control paths return a value
+  Lab 2 Threaded Binary Tree.vcxproj -> C:\Users\Andres Choque\Documents\CSIS 215 work\Lab 2 Threaded Binary Tree\Debug\Lab 2 Threaded Binary Tree.exe
